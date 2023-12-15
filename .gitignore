@@ -23,8 +23,7 @@
 /config.h.in~
 /config.log
 /config.status
-/configure
-/configure~
+.DS_Store
 /cscope.*
 /doc/Doxyfile
 /doc/html/
