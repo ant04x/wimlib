@@ -13,8 +13,7 @@ LT_INIT
 PKG_PROG_PKG_CONFIG
 
 AC_CONFIG_HEADERS([config.h])
-AC_CONFIG_FILES([Makefile] [doc/Doxyfile] [wimlib.pc])
-AC_CONFIG_FILES([programs/mkwinpeimg], [chmod +x programs/mkwinpeimg])
+AC_CONFIG_FILES([Makefile] [wimlib.pc])
 
 PKGCONFIG_PRIVATE_REQUIRES=""
 PKGCONFIG_PRIVATE_LIBS=""

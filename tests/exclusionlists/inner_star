@@ -1,9 +1,0 @@
-[ExclusionList]
-foo*bar
-
-@@@
-
-  bar
-  foo
-- foobar
-- fooXYZbar
