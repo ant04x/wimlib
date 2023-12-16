@@ -55,4 +55,4 @@
 /wimlib.pc
 configure
 /configure~
-.DS_Store
+/build-aux
