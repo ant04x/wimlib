@@ -54,3 +54,5 @@
 /wimlib-imagex.exe
 /wimlib.pc
 configure
+/configure~
+.DS_Store
